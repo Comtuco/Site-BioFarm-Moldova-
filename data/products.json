@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Mere",
+        "description": "Mere dulci și aromate.",
+        "price": 25,
+        "weight": 1000,
+        "image": "../assets/mere.jpg",
+        "category": "fructe"
+    },
+    {
+        "id": 2,
+        "name": "Struguri",
+        "description": "Struguri copți și gustoși.",
+        "price": 40,
+        "weight": 1000,
+        "image": "../assets/struguri.jpg",
+        "category": "fructe"
+    },
+    {
+        "id": 3,
+        "name": "Pere",
+        "description": "Pere proaspete cultivate natural.",
+        "price": 35,
+        "weight": 1000,
+        "image": "../assets/para.jpg",
+        "category": "fructe"
+    },
+   
+    {
+        "id": 4,
+        "name": "Tomate",
+        "description": "Tomate bio cultivate local.",
+        "price": 30,
+        "weight": 1000,
+        "image": "../assets/tomate.jpg",
+        "category": "legume"
+    },
+    {
+        "id": 5,
+        "name": "Castraveți",
+        "description": "Castraveți proaspeți și crocanți.",
+        "price": 20,
+        "weight": 1000,
+        "image": "../assets/castraveti.jpg",
+        "category": "legume"
+    },
+    {
+        "id": 6,
+        "name": "Morcov",
+        "description": "Morcovi dulci cultivați natural.",
+        "price": 15,
+        "weight": 1000,
+        "image": "../assets/morcov.jpg",
+        "category": "legume"
+    },
+    {
+        "id": 7,
+        "name": "Vită",
+        "description": "Carne de vită proaspătă și de calitate.",
+        "price": 150,
+        "weight": 1000,
+        "image": "../assets/vita.jpg",
+        "category": "produse animale"
+    },
+    {
+        "id": 8,
+        "name": "Ouă",
+        "description": "Ouă proaspete de la găini crescute liber.",
+        "price": 20,
+        "weight": 1000,
+        "image": "../assets/oua.jpeg",
+        "category": "produse animale"
+    },
+    {
+        "id": 9,
+        "name": "Lapte",
+        "description": "Lapte proaspăt de vacă de la fermă.",
+        "price": 10,
+        "weight": 1000,
+        "image": "../assets/lapte.jpg",
+        "category": "produse animale"
+    }
+]
